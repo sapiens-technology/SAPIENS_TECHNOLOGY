@@ -2,7 +2,7 @@ Get to know our company.
 
 # SAPIENS_TECHNOLOGY
 
-![Sapiens](SapiensTech_Logo_Color.jpg)
+![Sapiens](SapiensTech_Logo_Color.png)
 
 SAPIENS TECHNOLOGY® is not just another technology company, it marks the beginning of a new era in Artificial Intelligence.
 
