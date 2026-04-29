@@ -1,6 +1,6 @@
 Get to know our company.
 
-# SAPIENS_TECHNOLOGY
+# SAPIENS TECHNOLOGY®️
 
 ![Sapiens](SapiensTech_Logo_Color.png)
 
