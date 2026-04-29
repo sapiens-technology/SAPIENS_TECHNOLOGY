@@ -25,3 +25,14 @@ Driven by a strong commitment to **productivity, performance, and sustainability
 This is a company that does not merely compete with global leaders, but sets a new standard for the entire industry.
 
 **SAPIENS TECHNOLOGY®: beyond standards, beyond limits, beyond time.**
+
+## Contributing
+
+We do not accept contributions that may result in changing the original code.
+
+Make sure you are using the appropriate version.
+
+## License
+
+This is proprietary repository and its alteration and/or distribution without the developer's authorization is not permitted.
+
