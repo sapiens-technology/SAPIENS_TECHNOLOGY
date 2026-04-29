@@ -26,6 +26,8 @@ This is a company that does not merely compete with global leaders, but sets a n
 
 **SAPIENS TECHNOLOGY®: beyond standards, beyond limits, beyond time.**
 
+Click [here](https://github.com/sapiens-technology/AboutUs) and learn more.
+
 ## Contributing
 
 We do not accept contributions that may result in changing the original code.
