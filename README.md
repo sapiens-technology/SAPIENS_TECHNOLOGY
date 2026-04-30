@@ -28,6 +28,15 @@ This is a company that does not merely compete with global leaders, but sets a n
 
 Click [here](https://github.com/sapiens-technology/AboutUs) and learn more.
 
+<div align="right">
+  <a href="https://pypi.org/user/SAPIENS_TECHNOLOGY/">
+    <img title="PyPI" src="https://pypi.org/static/images/logo-small.8998e9d1.svg" width="20"/>
+  </a>
+  <a href="https://huggingface.co/sapiens-technology">
+    <img title="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20"/>
+  </a>
+</div>
+
 ## Contributing
 
 We do not accept contributions that may result in changing the original code.
