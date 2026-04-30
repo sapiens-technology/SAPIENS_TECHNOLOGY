@@ -4,6 +4,7 @@ Get to know our company.
 
 ![Sapiens](SapiensTech_Logo_Color.png)
 
+<div align="justify">
 SAPIENS TECHNOLOGY® is not just another technology company, it marks the beginning of a new era in Artificial Intelligence.
 
 In a global landscape dominated by international giants, SAPIENS emerges as a true protagonist: the **first and, as of the date of this publication, the only company in Brazil and across Latin America** to develop a **foundational large language model (LLM/LMM)** with a native focus on **Portuguese and Spanish**. This is not just innovation, it is technological sovereignty.
@@ -23,6 +24,8 @@ Furthermore, SAPIENS technology introduces concepts once considered impossible, 
 Driven by a strong commitment to **productivity, performance, and sustainability**, SAPIENS TECHNOLOGY® is not just keeping up with the future, it is building it.
 
 This is a company that does not merely compete with global leaders, but sets a new standard for the entire industry.
+
+</div>
 
 **SAPIENS TECHNOLOGY®: beyond standards, beyond limits, beyond time.**
 
