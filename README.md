@@ -34,10 +34,10 @@ Click [here](https://github.com/sapiens-technology/AboutUs) and learn more.
 
 <div align="right">
   <a href="https://pypi.org/user/SAPIENS_TECHNOLOGY/">
-    <img title="PyPI" src="pypi.png" width="60"/>
+    <img title="PyPI" src="pypi.png" width="100"/>
   </a>
   <a href="https://huggingface.co/sapiens-technology">
-    <img title="Hugging Face" src="huggingface.png" width="60"/>
+    <img title="Hugging Face" src="huggingface.png" width="100"/>
   </a>
 </div>
 
